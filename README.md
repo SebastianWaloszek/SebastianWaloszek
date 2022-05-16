@@ -1,16 +1,20 @@
-### Hi there 👋
+##  Hi there 👋
 
-<!--
-**SebastianWaloszek/SebastianWaloszek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sebastian here. I'm a Flutter developer by day and night until the end of times (not really).
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on some Flutter requitment challenges.  
+- 🌱 I’m currently learning DeFi.
+- 📫 How to reach me: sebastian.waloszek95@gmail.com.
+- ⚡ Fun fact: Licking doorknobs is illegal on other planets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Here are some of my socials:
+
+<a href="https://www.linkedin.com/in/sebastian-waloszek-418778108/" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=2147483647&v=beta&t=Zq1zixRFUNMSm2Ldgu_hcJAYTL1gWG3VHKXO4kf9lDQ" height="50" width="50" /></a> 
+<a href="https://www.behance.net/sebastiwalosze" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/1200/1*nwC9IhBwXNLV1JgwEgetQw.jpeg" height="50" width="50" /></a> 
+<a href="https://medium.com/@sebastian.waloszek.95" target="blank"><img align="center" src="https://dailyweb.pl/wp-content/uploads/2017/08/1emiGsBgJu2KHWyjluhKXQw.png" height="50" width="50" /></a>
+
+
+
+
+
+
