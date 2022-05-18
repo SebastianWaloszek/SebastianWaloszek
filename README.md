@@ -3,7 +3,6 @@
 Sebastian here. I'm a Flutter developer by day and night until the end of times (not really).
 
 - 🔭 I’m currently working on some Flutter requitment challenges.  
-- 🌱 I’m currently learning about DeFi.
 - 📫 How to reach me: sebastian.waloszek95@gmail.com.
 - ⚡ Fun fact: Licking doorknobs is illegal on other planets.
 
