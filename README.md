@@ -1,12 +1,4 @@
-##  Hi there 👋
-
-Sebastian here. I'm a Flutter developer by day and night until the end of times (not really).
-
-- 🔭 I’m currently working on some Flutter requitment challenges.  
-- 📫 How to reach me: sebastian.waloszek95@gmail.com.
-- ⚡ Fun fact: Licking doorknobs is illegal on other planets.
-
-#### Here are some of my socials:
+#### My socials:
 
 <a href="https://www.linkedin.com/in/sebastian-waloszek-418778108/" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=2147483647&v=beta&t=Zq1zixRFUNMSm2Ldgu_hcJAYTL1gWG3VHKXO4kf9lDQ" height="50" width="50" /></a> 
 <a href="https://www.behance.net/sebastiwalosze" target="blank"><img align="center" src="https://cdn-images-1.medium.com/max/1200/1*nwC9IhBwXNLV1JgwEgetQw.jpeg" height="50" width="50" /></a> 
