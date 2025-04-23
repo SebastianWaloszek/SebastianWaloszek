@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Hi, 
 I'm Sebastian, a Senior Flutter Engineer based in Europe. I am passionate about crafting scalable, accessible, and beautifully engineered mobile applications across iOS, Android, and the web. I focus particularly on clean architecture, performance optimization, and accessibility in my work.
 
 *   💙 Passionate about Flutter development and its community.
